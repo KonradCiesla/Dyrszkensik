@@ -2,6 +2,14 @@ body{
 background-color: blueviolet;
 }
 
+p{
+font-size: 30px;
+background-color: chartreuse;
+width: 150px;
+height: 150px;
+border: 30px;
+border-color: black;
+}
 
 
 
